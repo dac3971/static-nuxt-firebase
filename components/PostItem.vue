@@ -4,7 +4,7 @@
     :key="post.id"
     nuxt :to="route">
     <v-list-tile-avatar v-if="post.url || post.urls">
-        <div style="border: 1px solid black; padding: 2px 4px">{{getExt(post.url || post.urls)}}</div>
+        <div style="border: 1px solid white; padding: 2px 4px">{{getExt(post.url || post.urls)}}</div>
     </v-list-tile-avatar>
     <v-list-tile-content>
         <v-list-tile-sub-title v-if="post.cat"><span class="font-weight-bold"

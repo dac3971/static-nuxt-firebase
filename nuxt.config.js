@@ -19,7 +19,7 @@ module.exports = {
       // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Material+Icons' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Bitter' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Source+Code+Pro' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=PT+Sans+Narrow:700' },
     ]
   },
 
